@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: MyString
+  projet: MyString
+  production: MyString
+  commentaire: MyString
+  category_id: 1
+
+two:
+  date: MyString
+  projet: MyString
+  production: MyString
+  commentaire: MyString
+  category_id: 1
